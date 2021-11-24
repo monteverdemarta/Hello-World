@@ -1,2 +1,2 @@
-# Portfolio
-Some projects using SQL and Python
+# Hello World
+My first repository on GitHub
